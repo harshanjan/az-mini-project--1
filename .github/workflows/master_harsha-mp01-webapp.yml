@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'harsha-mp01-webapp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_860FD3ECEE3043C3A7C117D35A10F35A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_FB3951B8416B46FEA5EF36524027A989 }}
           package: .
